@@ -1,0 +1,11 @@
+# Ignore everything
+*
+
+# Except these folders and their contents
+!data/
+!data/**
+!output/
+!output/**
+
+# And .gitignore itself
+!.gitignore
